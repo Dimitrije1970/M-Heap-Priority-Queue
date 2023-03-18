@@ -1,0 +1,3 @@
+**M-Heap-Priority-Queue** is a C++ program that showcases the use and features of m-ary heaps as a priority queue data structure. M-ary heaps are a variation of binary heaps that allow for more than two children per parent, providing a more flexible and customizable priority queue implementation.
+
+The program provides a set of functions for creating and manipulating m-ary heaps, as well as for performing basic priority queue operations such as insertion, deletion, and extraction of the highest priority element. The program also includes features for customizing the heap size and number of children per parent, as well as for displaying the heap structure and priority values.
